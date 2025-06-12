@@ -10,6 +10,7 @@
 
 ## 📌 **Table of Contents**  
 1. [Project Overview](#-project-overview)
+
 In this project, I developed a complete end-to-end data science solution to predict the success or failure of SpaceX Falcon 9 first-stage landings. The goal was to enable cost-efficient forecasting for rocket launches, which can support competitive bidding decisions in the aerospace industry.
 The workflow included:
 - Data Acquisition: Collected launch data via SpaceX’s API and enriched it with mission details through Wikipedia web scraping.
