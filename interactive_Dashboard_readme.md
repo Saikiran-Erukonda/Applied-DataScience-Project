@@ -36,7 +36,8 @@ if __name__ == '__main__':
     app.run()
 
 ```
-![`Initial_setup`](C:\Users\E Saikiran\Pictures\Screenshots\Screenshot 2025-06-12 184909.png)
+![`Initial_setup_output`](https://github.com/user-attachments/assets/ca6974c0-2ccf-4d5d-b122-d1f647f3f84c)
+
 
 ## Task 1  Add a Launch Site Drop-down Input Component
 ``` python
@@ -86,6 +87,8 @@ if __name__ == '__main__':
     app.run()
 
 ```
+![Task1_output](https://github.com/user-attachments/assets/db06f949-86e7-4f4c-a4eb-e10f0155e5f3)
+
 
 ## TASK 2: Add a callback function to render success-pie-chart based on selected site dropdown
 
@@ -155,6 +158,7 @@ if __name__ == '__main__':
     app.run()
 
 ```
+![Task_2_output](https://github.com/user-attachments/assets/8e03be79-751d-4f37-9e5f-4841247da2ed)
 
 TASK 3: Add a Range Slider to Select Payload
 
@@ -235,6 +239,8 @@ def update_pie_chart(selected_site):
 if __name__ == '__main__':
     app.run()
 ```
+
+![`Task_3_output`](https://github.com/user-attachments/assets/6708cb2f-2075-40c8-970a-e4c5b1557f8c)
 
 Task 4: Add Scatter Plot Callback
 
@@ -345,6 +351,8 @@ def update_scatter_plot(selected_site, payload_range):
 if __name__ == '__main__':
     app.run()
 ```
+![`Task_4_output`](https://github.com/user-attachments/assets/4a2f2d8f-ff13-4643-84ed-cff38830851d)
+
 
 ## The Final code after completion of all tasks
 
@@ -563,3 +571,4 @@ def update_scatter_plot(selected_site, payload_range):
 if __name__ == '__main__':
     app.run()
 ```
+![Final_output](https://github.com/user-attachments/assets/3eca433f-fd06-4798-8718-714d6e111009)
