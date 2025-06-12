@@ -36,7 +36,7 @@ if __name__ == '__main__':
     app.run()
 
 ```
-[`Initial_setup`]("C:\Users\E Saikiran\Pictures\Screenshots\Screenshot 2025-06-12 184909.png")
+![`Initial_setup`]("C:\Users\E Saikiran\Pictures\Screenshots\Screenshot 2025-06-12 184909.png")
 
 ##Task 1  Add a Launch Site Drop-down Input Component
 ``` python
