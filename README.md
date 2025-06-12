@@ -1,25 +1,51 @@
 # **Applied DataScience Project**
-## **SpaceX Falcon 9 first stage Landing Prediction**
-# [Project Title]  
-**Author(s):** [Your Name]  
-**Affiliation(s):** [Your Institution/Company]  
-**Contact:** [Your Email] | [GitHub Profile]  
-**Date:** [YYYY-MM-DD]  
+
+# **Predicting Falcon 9 First Stage Landings: A Machine Learning Approach to Cost-Efficient Space Missions**
+**Author(s):** Erukonda Saikiran  
+**Affiliation(s):** Courseera -IBM
+**Contact:** [GitHub Profile]](https://github.com/Saikiran-Erukonda)  
+**Date:** [2025-06-12]  
 
 ---
 
 ## 📌 **Table of Contents**  
-1. [Project Overview](#-project-overview)  
-2. [Report Structure](#-report-structure)  
+1. [Project Overview](#-project-overview)
+In this project, I developed a complete end-to-end data science solution to predict the success or failure of SpaceX Falcon 9 first-stage landings. The goal was to enable cost-efficient forecasting for rocket launches, which can support competitive bidding decisions in the aerospace industry.
+The workflow included:
+- Data Acquisition: Collected launch data via SpaceX’s API and enriched it with mission details through Wikipedia web scraping.
+- Data Wrangling: Performed thorough data cleaning and preprocessing, including handling missing values, feature engineering, and encoding categorical variables.
+- SQL Integration: Queried and managed structured launch data using SQL for effective exploration and analysis.
+- Data Visualization:
+   - Basic and advanced plots using matplotlib and seaborn for EDA.
+   - Folium maps to visualize launch site locations and geospatial trends.
+   - An interactive dashboard built with Plotly and Dash for real-time data inspection and user-driven insights.
+- Predictive Modeling:
+  - Applied multiple machine learning models, including logistic regression, decision trees, SVM, and KNN.
+  - Tuned hyperparameters using GridSearchCV and compared test accuracies to identify the best-performing model.
+  - Final model used to predict first-stage landing success based on input launch configurations
+
+2. [Report Structure](#-report-structure)
+   - Introduction
+   - Problem Statement
+   - Project Objectives
+   - Tools & Technologies Used
+   - Data Collection & Exploration
+   - Data Preprocessing
+   - Exploratory Data Analysis (EDA)
+   - Feature Engineering
+   - Modeling & Evaluation
+   - Dashboard & Visualization
+   - Conclusion & Insights
+
 3. [Key Findings](#-key-findings)  
-4. [Methodology](#-methodology)  
-5. [Data Sources](#-data-sources)  
-6. [Results](#-results)  
-7. [Discussion](#-discussion)  
-8. [Conclusion](#-conclusion)  
-9. [How to Reproduce](#-how-to-reproduce)  
-10. [References](#-references)  
-11. [Acknowledgments](#-acknowledgments)  
+5. [Methodology](#-methodology)  
+6. [Data Sources](#-data-sources)  
+7. [Results](#-results)  
+8. [Discussion](#-discussion)  
+9. [Conclusion](#-conclusion)  
+10. [How to Reproduce](#-how-to-reproduce)  
+11. [References](#-references)  
+12. [Acknowledgments](#-acknowledgments)  
 
 ---
 
