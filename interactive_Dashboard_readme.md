@@ -160,7 +160,7 @@ if __name__ == '__main__':
 ```
 ![Task_2_output](https://github.com/user-attachments/assets/8e03be79-751d-4f37-9e5f-4841247da2ed)
 
-TASK 3: Add a Range Slider to Select Payload
+### TASK 3: Add a Range Slider to Select Payload
 
 ```python
 # task3_slider.py
@@ -242,7 +242,7 @@ if __name__ == '__main__':
 
 ![`Task_3_output`](https://github.com/user-attachments/assets/6708cb2f-2075-40c8-970a-e4c5b1557f8c)
 
-Task 4: Add Scatter Plot Callback
+### Task 4: Add Scatter Plot Callback
 
 ```python
 # task4_scatterplot.py
